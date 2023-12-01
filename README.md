@@ -53,7 +53,7 @@ The dataset was provided by our marketing team which was extracted directly from
 
 #### Exploring Churn pattern with types of Contract.
 
-<img src="images/3.png" lign="centre">
+<img src="images/3.png" align="centre">
 
 Key Takeaways
 - Majority of customers choose Monthly contracts. 
@@ -62,7 +62,7 @@ Key Takeaways
 ---
 #### Exploring Churn pattern with types of Contract. -2 
 
-{image link}
+<img src="images/2.png" align="centre">
 
 Key Takeaways
 - Maximum churn happens in customers who choose monthly contract at 42.7%.
