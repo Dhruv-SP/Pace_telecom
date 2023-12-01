@@ -6,7 +6,13 @@ GitHub repositery for the east cost retention project.
 
 Repositery Structure
 
-[Executive link](#exploratory-data-analysis)
+- [Executive Summary](#executive-summary)
+- [Data](#data)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Modeling](#modeling)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+
 - Executive Summary
     - Business Problem
     - Proposed Solution
