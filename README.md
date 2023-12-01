@@ -1,5 +1,4 @@
-# Pace_telecom
-
+# Pace Telecom
 
 ## East Coast Retention
 
@@ -116,7 +115,52 @@ Random Forest will be a perfect fit for our problem as
 - It provides feature importance which can be used to understand the factors driving customer to churn.
 - The ensemble effect will result in more stable and reliable model.
 
+
 #### Training, testing and predicting data
 - The data acquired from 1st january, 2023 – 1st october, 2023 will be used to train the model.
 - A 20% randomly selected section of that data will be used to evaluate the model, to check whether the model is performing upto mark or not.
 - Using the trained model, we will predict churn among customers who joined out service from october 1st to november 10th, 2023.
+
+## Findings
+
+#### Model Evaluation
+{image link}
+{image link}
+- False Negative can hide potential churns as not churns and can hurt our retention goals, So we need to make sure that our model is producing least FN.
+
+- Recall = ability of a model to correctly identify all True Positive = TP/ TP+FN = 85.71%
+---
+
+#### Model Findings - Total potential Churn
+{image link}
+- Model Suggests that out of all the new customers we acquired from october 1st to november 10th, 34% of them might churn.
+
+- The churning of this customers can hurt our Market capture goals of 2023-Q4.
+---
+
+#### Model Findings - Contract Type in Churn
+{image link}
+- Among those 34% potential churning customers, 78% of them have opted for monthly contracts.
+## Recommendations
+
+Based on the done analysis, the following steps can be recommended:
+    
+    - Offer yearly contract to customers who opt monthly contract consecutively.
+    
+    - Prioritize support and retain customers with tenure < 1 year without compromising support for other customers.
+
+
+#### Offering yearly contract.
+
+- Statistics show that customers with yearly contract has 11.28% (for 1 year) and 2.85% (for 2 year) chances of churning where 43% for monthly user. 
+- This may be because during the short commitment, the customer might be looking for a better offer from other providers and if found, then leveraging their small commitment, they might switch to other provider.
+- Monthly contract also don't provide as greater value as yearly contract does, so offering them yearly contract can bring down their monthly bills, convincing them to not churn by the next contract.
+- By offering yearly contracts to customer, their churn rate may decrease, resulting in retaining more customers thus solving our business problem in hand.
+
+#### Prioritize customers with tenure < 1 year
+
+- About 48% of customers churns by their first year of service, but only 29% within second year and keeps decreasing there on.
+- This can be because of the trust customers build by working with us, the more they stay, the more their trust, resulting in lower chances of churning.
+- Prioritizing support for customers with tenure < 1 year may retain group of customers who are most possible to churn. 
+- Doing so may have good long time impact on company as more customers will build trust towards us and can be retained for longer tenures thus solving our business problem in hand.
+
