@@ -54,6 +54,7 @@ The dataset was provided by our marketing team which was extracted directly from
 #### Exploring Churn pattern with types of Contract.
 
 {image link}
+ /<img src="images/energy_box.png" align="left" width="300" height="200">/ 
 
 Key Takeaways
 - Majority of customers choose Monthly contracts. 
