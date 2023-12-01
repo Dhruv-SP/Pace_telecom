@@ -4,33 +4,26 @@
 
 GitHub repositery for the east cost retention project. 
 
-Repositery Structure
+Index
 
 - [Executive Summary](#executive-summary)
-- [Data](#data)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Modeling](#modeling)
-- [Findings](#findings)
-- [Recommendations](#recommendations)
-
-- Executive Summary
     - Business Problem
     - Proposed Solution
-- Data
+- [Data](#data)
     - Statistics
     - Data exclusion
     - Data Assumption
-- EDA
+- [Exploratory Data Analysis](#exploratory-data-analysis)
     - Analysis
-- Modeling
+- [Modeling](#modeling)
     - Outcome variable
     - Features
     - Random Forest
     - Training, testing and predicting data
-- Findings
+- [Findings](#findings)
     - Model Findings
     - Analysis Findings
-- Recommendations
+- [Recommendations](#recommendations)
     
 ## Executive Summary 
 
