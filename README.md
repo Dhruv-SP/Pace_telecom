@@ -124,22 +124,27 @@ Random Forest will be a perfect fit for our problem as
 ## Findings
 
 #### Model Evaluation
-{image link}
-{image link}
+
+<img src="Images/8.png">
+
 - False Negative can hide potential churns as not churns and can hurt our retention goals, So we need to make sure that our model is producing least FN.
 
 - Recall = ability of a model to correctly identify all True Positive = TP/ TP+FN = 85.71%
 ---
 
 #### Model Findings - Total potential Churn
-{image link}
+
+<img src="Images/9.png">
+
 - Model Suggests that out of all the new customers we acquired from october 1st to november 10th, 34% of them might churn.
 
 - The churning of this customers can hurt our Market capture goals of 2023-Q4.
 ---
 
 #### Model Findings - Contract Type in Churn
-{image link}
+
+<img src="Images/10.png">
+
 - Among those 34% potential churning customers, 78% of them have opted for monthly contracts.
 ## Recommendations
 
