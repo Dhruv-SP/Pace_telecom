@@ -4,7 +4,7 @@
 
 GitHub repositery for the east cost retention project. 
 
-Index
+#### Index
 
 - [Executive Summary](#executive-summary)
     - Business Problem
